@@ -1,2 +1,1 @@
 # js-kalkulacka
-# js-kalkulacka
